@@ -12,7 +12,8 @@ WelcomePack para DayZ Expansion.
 <img width="309" height="790" alt="image" src="https://github.com/user-attachments/assets/d752e628-b61a-4781-b011-973a753e7584" />
 <img width="528" height="154" alt="image" src="https://github.com/user-attachments/assets/5dbcaded-6503-41ed-8053-9895c347f244" />
 
-- O mod deve como base em um WelcomePack que encontrei na Steam que estava bugado, corrigi e adicionei novas funcionalidades. Não me lembro de quem foi para poder dar os créditos.
+
+- O mod teve como base um WelcomePack que encontrei na Steam que estava bugado, corrigi e adicionei novas funcionalidades. Não me lembro de quem foi para poder dar os créditos.
 - As funções de disparo para Discord são de código aberto do do Zens Discord API, apenas adicionei algumas coisas novas no embed. Crédito: Zenarchist.
 - O mod não foi feito pensando em ser público, então tem dependência do Expansion pois o FronteiraZ utilizava Expansion para as notificações, você pode alterar de forma fácil para não precisar do Expansion.
 - Foi testado apenas no chat do Expansion, mas deve funcionar em qualquer chat.
